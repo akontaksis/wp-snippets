@@ -32,7 +32,12 @@ Gia odigies sto pos grafo neo snippet, des to [TEMPLATE.md](TEMPLATE.md).
 | [Force SSL on Admin](php/security/force-ssl-admin.php) | security | Run Everywhere |
 | [Disable Application Passwords](php/security/disable-application-passwords.php) | security | Run Everywhere |
 | [Hide Admin Bar for Non-Admins](php/admin/hide-admin-bar-non-admins.php) | admin | Run Everywhere |
+| [Custom Admin Footer Text](php/admin/custom-admin-footer-text.php) | admin | Admin Only |
+| [Custom Dashboard Widget](php/admin/custom-dashboard-widget.php) | admin | Admin Only |
+| [Hide Menu Items by Role](php/admin/hide-menu-items-by-role.php) | admin | Admin Only |
+| [Featured Image Column in Post List](php/admin/featured-image-column.php) | admin | Admin Only |
 | [Disable WP Emojis](php/performance/disable-emojis.php) | performance | Run Everywhere |
+| [Increase Autosave Interval](php/performance/increase-autosave-interval.php) | performance | Run Everywhere |
 | [Allow SVG Uploads](php/media/allow-svg-uploads.php) | media | Admin Only |
 | [Custom Login Logo](php/login/custom-login-logo.php) | login | Run Everywhere |
 | [Change Add to Cart Text (WC)](php/woocommerce/change-add-to-cart-text.php) | woocommerce | Run Everywhere |
