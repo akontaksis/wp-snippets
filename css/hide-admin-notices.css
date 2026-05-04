@@ -1,0 +1,15 @@
+/**
+ * Snippet Name: Hide Admin Notices
+ * Description: Krivei ta enoxlitika notices apo plugins sto wp-admin.
+ * WPCode Type: CSS Snippet
+ * WPCode Location: Admin Footer
+ * Tags: admin, ui
+ */
+
+.notice,
+.updated,
+.update-nag,
+div.error,
+div.updated {
+    display: none !important;
+}
